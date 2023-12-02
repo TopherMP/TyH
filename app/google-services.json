@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "649874404799",
+    "firebase_url": "https://invernadero-caa1a-default-rtdb.firebaseio.com",
+    "project_id": "invernadero-caa1a",
+    "storage_bucket": "invernadero-caa1a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:649874404799:android:b3bfb7169e5123f0fb5d0a",
+        "android_client_info": {
+          "package_name": "com.example.invernadero"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMHcwhA8JBpNWFw8JSyBN6myV_UwOfiDQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:649874404799:android:ce69cf81acf293e5fb5d0a",
+        "android_client_info": {
+          "package_name": "com.example.th"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMHcwhA8JBpNWFw8JSyBN6myV_UwOfiDQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
